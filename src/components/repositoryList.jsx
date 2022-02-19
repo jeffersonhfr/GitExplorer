@@ -5,6 +5,7 @@ const repository = {
   description: 'Tudo da Globo',
   link: 'http://globo.com',
 };
+
 export function RepositoryList() {
   return (
     <section className="repository-list">
